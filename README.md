@@ -20,6 +20,9 @@ python install.py
 python main.py
 ```
 
+### Or
+
+Download the most recent release then run main.exe (if your not on windows you can try https://www.mono-project.com/download/stable/ but its untested)
 ## Author
 
 👤 **LabGuy94**
