@@ -1,4 +1,6 @@
+
 <h1 align="center">Welcome to NFT Heist 👋</h1>
+<img src=showcase.gif alt="Showcase" style="width:30%; float: right;">
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -21,7 +23,6 @@ python main.py
 ```
 
 ### Or
-
 Download the most recent release then run main.exe (if your not on windows you can try https://www.mono-project.com/download/stable/ but its untested)
 ## Author
 
